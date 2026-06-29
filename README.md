@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ruilin Wang
 
+Junior software developer based in Edmonton, Canada.  
+I build practical tools in Python, Java, testing, data validation, Android, and security-aware software.
+
+## Featured projects
+- Format-Aware Black-Box Fuzzer — Python, Docker, mutation testing
+- DIMY Contact Tracing Protocol Simulator — Python networking, TCP/UDP, threading
+- Javenture Android Inventory App — Java, Firebase, UI testing
+- OpenET 2 — research software, data validation, visualization
+
+## Looking for
+Junior Software Developer / Python Developer / QA Automation / Research Software Developer roles in Canada.
 <!--
 **RWuilin/RWuilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
