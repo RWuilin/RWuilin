@@ -1,16 +1,121 @@
-# Hi, I'm Ruilin Wang
+# Hi, I'm Ruilin Wang 👋
 
-Junior software developer based in Edmonton, Canada.  
-I build practical tools in Python, Java, testing, data validation, Android, and security-aware software.
+Junior Software Developer based in Edmonton, Alberta.
 
-## Featured projects
-- Format-Aware Black-Box Fuzzer — Python, Docker, mutation testing
-- DIMY Contact Tracing Protocol Simulator — Python networking, TCP/UDP, threading
-- Javenture Android Inventory App — Java, Firebase, UI testing
-- OpenET 2 — research software, data validation, visualization
+I enjoy building practical software that combines engineering, testing, security, and AI.
+
+---
 
 ## Looking for
-Junior Software Developer / Python Developer / QA Automation / Research Software Developer roles in Canada.
+
+I'm currently seeking
+
+- Junior Software Developer
+- Python Developer
+- Software Engineer
+- QA Automation / SDET
+- Research Software Developer
+
+roles across Canada.
+
+Work Authorization:
+🇨🇦 Open PGWP (valid until Oct 2029)
+
+---
+
+## Tech Stack
+
+**Languages**
+
+- Python
+- Java
+- C
+- JavaScript
+- SQL
+
+**Frameworks & Tools**
+
+- Docker
+- Git
+- Linux
+- Firebase
+- Pandas
+- NumPy
+- OpenCV
+
+---
+
+## Featured Projects
+
+### OpenET 2
+
+Client-based research software project.
+
+- Data validation
+- Benchmarking
+- Eye-tracking analysis
+- Python
+
+---
+
+### Format-Aware Black-Box Fuzzer
+
+Python mutation fuzzer.
+
+- Docker
+- Crash detection
+- Automated testing
+
+---
+
+### DIMY Contact Tracing Simulator
+
+Distributed systems project.
+
+- TCP/UDP
+- Cryptography
+- Threading
+- Python
+
+---
+
+### Javenture
+
+Android inventory management application.
+
+- Java
+- Android Studio
+- Firebase
+
+---
+
+## Portfolio
+
+🌐 https://ruilinwang.com
+
+---
+
+## Resume
+
+Software Developer Resume
+
+https://ruilinwang.com/resumes
+
+---
+
+## Connect
+
+LinkedIn
+
+https://www.linkedin.com/in/ruilin-wang001/
+
+Portfolio
+
+https://ruilinwang.com
+
+Email
+
+ruilin.wang517@gmail.com
 <!--
 **RWuilin/RWuilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
