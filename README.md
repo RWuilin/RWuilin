@@ -27,11 +27,13 @@ Work Authorization:
 
 **Languages**
 
-- Python
-- Java
-- C
-- JavaScript
-- SQL
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 **Frameworks & Tools**
 
